@@ -5,6 +5,6 @@
 - Remove Outliers
 - Build the Model
 - Save Model
-- Move Model in Stremlit
+- Move Model in Streamlit
 
  
